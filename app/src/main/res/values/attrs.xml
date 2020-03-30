@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CommonControlView">
+        <attr name="first_icon" format="reference" />
+        <attr name="second_icon" format="reference" />
+        <attr name="third_icon" format="reference" />
+        <attr name="four_icon" format="reference" />
+        <attr name="center_icon" format="reference" />
+        <attr name="center_text" format="reference|string" />
+        <attr name="icon_num" format="integer" />
+        <attr name="control_radius" format="dimension|reference" />
+        <attr name="center_is_can_click" format="boolean" />
+    </declare-styleable>
+
+</resources>
