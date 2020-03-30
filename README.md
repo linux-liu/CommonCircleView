@@ -13,7 +13,7 @@
         app:third_icon="@drawable/down_tv" 第三个图标
         -->
 
-<at.smarthome.infraredcontrol.views.CommonControlView
+<com.at.smarthome.commoncircleview
         android:id="@+id/cv_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,3 +28,4 @@
 
 ```
 本圆形控制View，支持中间小圆里可以放文字或者图标，圆边上的图标最多支持4个图标，可以通过xml自定义属性动态配置1-4个图标。还可以为其点击区域添加点击事件。非常灵活
+具体详解介绍请访问https://blog.csdn.net/u014795729/article/details/105204708
